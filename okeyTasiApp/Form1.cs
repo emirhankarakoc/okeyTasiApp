@@ -280,5 +280,275 @@ namespace okeyTasiApp
             }
 
         }
+        int buton18Sayac = 0;
+        private void button18_Click(object sender, EventArgs e)
+        {
+            buton18Sayac++;
+            if (buton18Sayac == 1)
+            {
+                button18.BackColor = Color.LightGreen;
+                button18.ForeColor = Color.Black;
+            }
+            else if (buton18Sayac == 2)
+            {
+                button18.BackColor = Color.DarkGreen;
+                button18.ForeColor = Color.Yellow;
+
+            }
+            else if (buton18Sayac == 3)
+            {
+                buton18Sayac = 0;
+                button18.BackColor = DefaultBackColor;
+                button18.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton17Sayac = 0;
+        private void button17_Click(object sender, EventArgs e)
+        {
+            buton17Sayac++;
+            if (buton17Sayac == 1)
+            {
+                button17.BackColor = Color.LightGreen;
+                button17.ForeColor = Color.Black;
+            }
+            else if (buton17Sayac == 2)
+            {
+                button17.BackColor = Color.DarkGreen;
+                button17.ForeColor = Color.Yellow;
+
+            }
+            else if (buton17Sayac == 3)
+            {
+                buton17Sayac = 0;
+                button17.BackColor = DefaultBackColor;
+                button17.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton16Sayac = 0;
+        private void button16_Click(object sender, EventArgs e)
+        {
+            buton16Sayac++;
+            if (buton16Sayac == 1)
+            {
+                button16.BackColor = Color.LightGreen;
+                button16.ForeColor = Color.Black;
+            }
+            else if (buton16Sayac == 2)
+            {
+                button16.BackColor = Color.DarkGreen;
+                button16.ForeColor = Color.Yellow;
+
+            }
+            else if (buton16Sayac == 3)
+            {
+                buton16Sayac = 0;
+                button16.BackColor = DefaultBackColor;
+                button16.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton15Sayac = 0;
+        private void button15_Click(object sender, EventArgs e)
+        {
+            buton15Sayac++;
+            if (buton15Sayac == 1)
+            {
+                button15.BackColor = Color.LightGreen;
+                button15.ForeColor = Color.Black;
+            }
+            else if (buton15Sayac == 2)
+            {
+                button15.BackColor = Color.DarkGreen;
+                button15.ForeColor = Color.Yellow;
+
+            }
+            else if (buton15Sayac == 3)
+            {
+                buton15Sayac = 0;
+                button15.BackColor = DefaultBackColor;
+                button15.ForeColor = DefaultForeColor;
+            }
+        }
+        int buton14Sayac = 0;
+        private void button14_Click(object sender, EventArgs e)
+        {
+            buton14Sayac++;
+            if (buton14Sayac == 1)
+            {
+                button14.BackColor = Color.LightGreen;
+                button14.ForeColor = Color.Black;
+            }
+            else if (buton14Sayac == 2)
+            {
+                button14.BackColor = Color.DarkGreen;
+                button14.ForeColor = Color.Yellow;
+
+            }
+            else if (buton14Sayac == 3)
+            {
+                buton14Sayac = 0;
+                button14.BackColor = DefaultBackColor;
+                button14.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton13Sayac = 0;
+        private void button13_Click(object sender, EventArgs e)
+        {
+            buton13Sayac++;
+            if (buton13Sayac == 1)
+            {
+                button13.BackColor = Color.LightGreen;
+                button13.ForeColor = Color.Black;
+            }
+            else if (buton13Sayac == 2)
+            {
+                button13.BackColor = Color.DarkGreen;
+                button13.ForeColor = Color.Yellow;
+
+            }
+            else if (buton13Sayac == 3)
+            {
+                buton13Sayac = 0;
+                button13.BackColor = DefaultBackColor;
+                button13.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton24Sayac = 0;
+        private void button24_Click(object sender, EventArgs e)
+        {
+            buton24Sayac++;
+            if (buton24Sayac == 1)
+            {
+                button24.BackColor = Color.LightGreen;
+                button24.ForeColor = Color.Black;
+            }
+            else if (buton24Sayac == 2)
+            {
+                button24.BackColor = Color.DarkGreen;
+                button24.ForeColor = Color.Yellow;
+
+            }
+            else if (buton24Sayac == 3)
+            {
+                buton24Sayac = 0;
+                button24.BackColor = DefaultBackColor;
+                button24.ForeColor = DefaultForeColor;
+            }
+        }
+        int buton23Sayac = 0;
+        private void button23_Click(object sender, EventArgs e)
+        {
+            buton23Sayac++;
+            if (buton23Sayac == 1)
+            {
+                button23.BackColor = Color.LightGreen;
+                button23.ForeColor = Color.Black;
+            }
+            else if (buton23Sayac == 2)
+            {
+                button23.BackColor = Color.DarkGreen;
+                button23.ForeColor = Color.Yellow;
+
+            }
+            else if (buton23Sayac == 3)
+            {
+                buton23Sayac = 0;
+                button23.BackColor = DefaultBackColor;
+                button23.ForeColor = DefaultForeColor;
+            }
+        }
+        int buton22Sayac = 0;
+        private void button22_Click(object sender, EventArgs e)
+        {
+            buton22Sayac++;
+            if (buton22Sayac == 1)
+            {
+                button22.BackColor = Color.LightGreen;
+                button22.ForeColor = Color.Black;
+            }
+            else if (buton22Sayac == 2)
+            {
+                button22.BackColor = Color.DarkGreen;
+                button22.ForeColor = Color.Yellow;
+
+            }
+            else if (buton22Sayac == 3)
+            {
+                buton22Sayac = 0;
+                button22.BackColor = DefaultBackColor;
+                button22.ForeColor = DefaultForeColor;
+            }
+        }
+        int buton21Sayac = 0;
+        private void button21_Click(object sender, EventArgs e)
+        {
+            buton21Sayac++;
+            if (buton21Sayac == 1)
+            {
+                button21.BackColor = Color.LightGreen;
+                button21.ForeColor = Color.Black;
+            }
+            else if (buton21Sayac == 2)
+            {
+                button21.BackColor = Color.DarkGreen;
+                button21.ForeColor = Color.Yellow;
+
+            }
+            else if (buton21Sayac == 3)
+            {
+                buton21Sayac = 0;
+                button21.BackColor = DefaultBackColor;
+                button21.ForeColor = DefaultForeColor;
+            }
+
+        }
+        int buton20Sayac = 0;
+        private void button20_Click(object sender, EventArgs e)
+        {
+            buton20Sayac++;
+            if (buton20Sayac == 1)
+            {
+                button20.BackColor = Color.LightGreen;
+                button20.ForeColor = Color.Black;
+            }
+            else if (buton20Sayac == 2)
+            {
+                button20.BackColor = Color.DarkGreen;
+                button20.ForeColor = Color.Yellow;
+
+            }
+            else if (buton20Sayac == 3)
+            {
+                buton20Sayac = 0;
+                button20.BackColor = DefaultBackColor;
+                button20.ForeColor = DefaultForeColor;
+            }
+        }
+        int buton19Sayac=0;
+        private void button19_Click(object sender, EventArgs e)
+        {
+            buton19Sayac++;
+            if (buton19Sayac == 1)
+            {
+                button19.BackColor = Color.LightGreen;
+                button19.ForeColor = Color.Black;
+            }
+            else if (buton19Sayac == 2)
+            {
+                button19.BackColor = Color.DarkGreen;
+                button19.ForeColor = Color.Yellow;
+
+            }
+            else if (buton19Sayac == 3)
+            {
+                buton19Sayac = 0;
+                button19.BackColor = DefaultBackColor;
+                button19.ForeColor = DefaultForeColor;
+            }
+        }
     }
 }
